@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    font-family: 'Odibee Sans', cursive;
+}
+
+p {
+    font-size: 18px;
+}
+
+#navmenu {
+    font-size: 18px;
+}
+
+#navmenu a:hover {
+    color: aqua;
+}

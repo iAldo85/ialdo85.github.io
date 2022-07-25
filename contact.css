@@ -4,14 +4,7 @@ body {
 }
 
 p {
-    text-align: center;
-    color: lightcoral;
     font-size: 28px;
-    text-shadow: black 1px 1px;
-}
-
-.nav-item a:hover {
-    color: aqua;
 }
 
 #navmenu {
